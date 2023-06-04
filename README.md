@@ -1,0 +1,1 @@
+This is a simple program made with python and googletrans api that translates files.
